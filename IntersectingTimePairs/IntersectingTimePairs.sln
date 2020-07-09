@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectingTimePairs", "IntersectingTimePairs\IntersectingTimePairs.csproj", "{55740827-2452-4480-A9EB-29358F129F11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectingPairs.Tests", "IntersectingPairs.Tests\IntersectingPairs.Tests.csproj", "{B28151FE-1F86-4DEB-93EB-7A22507A2E6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55740827-2452-4480-A9EB-29358F129F11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55740827-2452-4480-A9EB-29358F129F11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55740827-2452-4480-A9EB-29358F129F11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55740827-2452-4480-A9EB-29358F129F11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28151FE-1F86-4DEB-93EB-7A22507A2E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28151FE-1F86-4DEB-93EB-7A22507A2E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28151FE-1F86-4DEB-93EB-7A22507A2E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28151FE-1F86-4DEB-93EB-7A22507A2E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
