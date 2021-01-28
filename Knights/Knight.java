@@ -14,7 +14,7 @@ class Knight {
     }
 
     public boolean DoKick(int power) {
-        if (LastNightStanding())
+        if (LastKnightStanding())
             return false;
         this.Next.Stamina -= power;
         System.out.println(
