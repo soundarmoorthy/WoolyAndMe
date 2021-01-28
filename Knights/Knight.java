@@ -9,7 +9,7 @@ class Knight {
         this.Name = name;
     }
 
-    private boolean LastNightStanding() {
+    private boolean LastKnightStanding() {
         return this.Next == null || this.Next == this;
     }
 
